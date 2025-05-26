@@ -14,7 +14,8 @@ const Logo: React.FC<LogoProps> = ({ variant = 'dark' }) => {
         <Globe size={22} className="text-white" />
       </div>
       <span className={`text-xl font-bold ${textColor}`}>
-        Global<span className="text-teal-500">Trade</span>Hub
+        {/* Global<span className="text-teal-500">Trade</span>Hub */}
+        Global<span className="text-red-500">Trade</span>Hub
       </span>
     </div>
   );
