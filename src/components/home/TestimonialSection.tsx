@@ -25,7 +25,7 @@ const TestimonialSection: React.FC = () => {
     {
       id: 3,
       content: "The AI-powered translation tools eliminated our communication barriers with overseas suppliers. We've reduced misunderstandings and accelerated our product development cycle.",
-      author: "Manan Ali",
+      author: "Isha",
       position: "Operations Manager",
       company: "Kings Tea",
       avatar: "https://images.pexels.com/photos/2681751/pexels-photo-2681751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750",
